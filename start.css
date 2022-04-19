@@ -1,0 +1,8 @@
+.inputarea{
+    width: 150px;
+    /* margin-left: 10px; */
+   
+}
+label{display: flex;
+    justify-content: inline;
+}
